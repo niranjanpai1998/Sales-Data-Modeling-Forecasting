@@ -13,7 +13,12 @@ This project focuses on designing a structured and normalized data model for sal
         - Store/Delivery Location
         - Product
         - Customer
+          Order
     - Ensured efficient querying and storage using Apache Iceberg.
+
+ERD Diagram for the Database - 
+![Alt text](images/Sales_Data_ERD_Diagram.png)
+
 
 - Sales Forecasting:
 
