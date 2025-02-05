@@ -26,6 +26,16 @@ ERD Diagram for the Database -
     - Trained the model on historical sales data to predict future product demand.
     - Generated visualizations to interpret model predictions and trends.
 
+## **Instructions to Setup this Project**
+- Download and install Docker Desktop from (https://www.docker.com/products/docker-desktop/).
+
+- Clone this repository into your local machine.
+
+- In terminal, run the following
+    ```
+        docker compose up
+    ```
+
 ## **Technologies Used**
 
 - Data Modeling & Storage:
